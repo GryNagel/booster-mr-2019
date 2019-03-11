@@ -14,5 +14,5 @@ Note MRTK = Mixed Reality Toolkit
 - A copy of the [Mixed Reality Tookit](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases)
 
 ## Tasks
-- [Task 1 - Setting up a new Unity project](Task/Task-1/)
-- [Task 2 - Creating a simple application](Task/Task-2/)
+- [Task 1 - Setting up a new Unity project](Task1.md)
+- [Task 2 - Creating a simple application](Task2.md)
