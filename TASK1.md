@@ -4,10 +4,10 @@
 
 :pencil2:  Open unity, enter a name and a location for your new project. Make sure 3D is selected as template and create the project.
 
-![Unity setup](Screenshots\unity_setup.png)
+![Unity setup](Screenshots/unity_setup.png)
 
 If you are using the default Unity layout it would look something like this: 
-![Unity layout](Screenshots\unity_overview.png)
+![Unity layout](Screenshots/unity_overview.png)
 Note the panel names. They will be used throughout the tasks. 
 
 Go to **Assets -> Import package -> Custom package** in the toolbar. Import the Microsoft.MixedReality.Tookit.Unity..Foundation-v2.0.0-Beta2.unitypackage downloaded from https://github.com/Microsoft/MixedRealityToolkit-Unity/releases/tag/v2.0.0-Beta2.
@@ -22,7 +22,7 @@ The Mixed Reality Toolkit assets will give you a new option in the toolbar. Go t
 
 New entities will appear in your Hierarchy view: 
 
-![Hierarchy](Screenshots\hierarchy1.jpg)
+![Hierarchy](Screenshots/hierarchy1.jpg)
 
 Save the new Scene by going to File -> Save scene as. Give it a name and save it in the scenes folder. 
 
@@ -52,13 +52,13 @@ A couple of settings in the Unity settings is also needed. Go to **Edit -> Proje
 
 Under **Publishing** settings change the package name. This is the unique name for your application that the HoloLens uses. If you don’t change it and load two different applications they will overwrite each other. 
 
-![Publish settings](Screenshots\publish_settings.jpg)
+![Publish settings](Screenshots/publish_settings.jpg)
 
 Next we need to make sure that the Virtual Reality supported checkbox is checked under **XR Settings**. This makes the application run as a VR application in the HoloLens. 
 
-![XR settings](Screenshots\xr_settings.jpg)
+![XR settings](Screenshots/xr_settings.jpg)
 
 That's it for the project settings, we are ready to create an application: 
 
-- [Task 2 - Creating an application](Task2.md) :arrow_forward:
+[Task 2 - Creating an application](Task2.md) :arrow_forward:
 

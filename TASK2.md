@@ -1,4 +1,3 @@
-# Introduction to HoloLens Development
+# Creating an application
 
-## Required resources:
-- [Task 1](task-1/)
+:arrow_back: [Task 1 - Creating a new project in Unity](Task1.md) 
