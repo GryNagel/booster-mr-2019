@@ -1,1 +1,1 @@
-# booster-mr-2019
+# Introduction to HoloLens development Booster 2019
