@@ -60,5 +60,5 @@ Next we need to make sure that the Virtual Reality supported checkbox is checked
 
 That's it for the project settings, we are ready to create an application: 
 
-[Task 2 - Creating an application](Task2.md) :arrow_forward:
+[Task 2 - Creating an application](TASK2.md) :arrow_forward:
 
