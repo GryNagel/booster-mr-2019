@@ -7,7 +7,7 @@
 ![Unity setup](Screenshots/unity_setup.png)
 
 If you are using the default Unity layout it would look something like this: 
-![Unity layout](Screenshots/unity_overview.png)
+![Unity layout](Screenshots/unity_overview_default.png)
 Note the panel names. They will be used throughout the tasks. 
 
 Go to **Assets -> Import package -> Custom package** in the toolbar. Import the Microsoft.MixedReality.Tookit.Unity..Foundation-v2.0.0-Beta2.unitypackage downloaded from https://github.com/Microsoft/MixedRealityToolkit-Unity/releases/tag/v2.0.0-Beta2.
