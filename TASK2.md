@@ -33,5 +33,5 @@ Repeat for the second Chester.
 
 To get some text on the **Placard** add an empty object called text under the **Placard**. Add a **Text mesh**-component. Set the scaling to 0,005 in all axis, font size to 100 and add some text. Add the **selawk** font to the **Text mesh**. Set the z-position to -0,01. You can change the text **anchor** and **alignment** to center the text. 
 
-:arrow_back: [Task 1 - Creating a new project in Unity](TASK1.md)
+:arrow_backward: [Task 1 - Creating a new project in Unity](TASK1.md)
 [Task 3 - Deploying to the HoloLens emulator](TASK3.md) :arrow_forward:
