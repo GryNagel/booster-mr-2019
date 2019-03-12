@@ -2,7 +2,7 @@
 
 Hopefully we have set everything up right so that we can deploy our application to the HoloLens emulator. 
 
-:pencil2: Fist go to ** Mixed reality -> Build window **. This will open a new build panel for us. For me it opens at the same spot as the Scene panel.
+:pencil2: First go to **Mixed reality -> Build window**. This will open a new build panel for us. For me it opens at the same spot as the Scene panel.
 
 ![Build panel](Screenshots/build_options.jpg)
 
