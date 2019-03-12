@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b99d125d7e1b344449c239fa32ef261f
+guid: 039dffbc3a2d3534d9a5f3b42ac5fbe3
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -9,85 +9,61 @@ ModelImporter:
     100006: chest
     100008: //RootNode
     100010: Cube.001
-    100012: Cube.003
-    100014: Cube.004
-    100016: foot.L
-    100018: foot.R
-    100020: head
-    100022: head_end
-    100024: hip.L
-    100026: hip.R
-    100028: leg.L
-    100030: leg.R
-    100032: pelvis
-    100034: shoulder.L
-    100036: shoulder.R
-    100038: Sphere
-    100040: toes.L
-    100042: toes.L_end
-    100044: toes.R
-    100046: toes.R_end
-    100048: Torus
-    100050: Torus.001
-    100052: wingtip.L
-    100054: wingtip.L_end
-    100056: wingtip.R
-    100058: wingtip.R_end
-    100060: wingtop.L
-    100062: wingtop.R
+    100012: foot.L
+    100014: foot.R
+    100016: head
+    100018: head_end
+    100020: hip.L
+    100022: hip.R
+    100024: leg.L
+    100026: leg.R
+    100028: pelvis
+    100030: shoulder.L
+    100032: shoulder.R
+    100034: toes.L
+    100036: toes.L_end
+    100038: toes.R
+    100040: toes.R_end
+    100042: wingtip.L
+    100044: wingtip.L_end
+    100046: wingtip.R
+    100048: wingtip.R_end
+    100050: wingtop.L
+    100052: wingtop.R
     400000: ankle.L
     400002: ankle.R
     400004: Armature
     400006: chest
     400008: //RootNode
     400010: Cube.001
-    400012: Cube.003
-    400014: Cube.004
-    400016: foot.L
-    400018: foot.R
-    400020: head
-    400022: head_end
-    400024: hip.L
-    400026: hip.R
-    400028: leg.L
-    400030: leg.R
-    400032: pelvis
-    400034: shoulder.L
-    400036: shoulder.R
-    400038: Sphere
-    400040: toes.L
-    400042: toes.L_end
-    400044: toes.R
-    400046: toes.R_end
-    400048: Torus
-    400050: Torus.001
-    400052: wingtip.L
-    400054: wingtip.L_end
-    400056: wingtip.R
-    400058: wingtip.R_end
-    400060: wingtop.L
-    400062: wingtop.R
-    2100000: dark
+    400012: foot.L
+    400014: foot.R
+    400016: head
+    400018: head_end
+    400020: hip.L
+    400022: hip.R
+    400024: leg.L
+    400026: leg.R
+    400028: pelvis
+    400030: shoulder.L
+    400032: shoulder.R
+    400034: toes.L
+    400036: toes.L_end
+    400038: toes.R
+    400040: toes.R_end
+    400042: wingtip.L
+    400044: wingtip.L_end
+    400046: wingtip.R
+    400048: wingtip.R_end
+    400050: wingtop.L
+    400052: wingtop.R
+    2100000: blue
     2100002: white
-    2100004: No Name
-    2100006: blue
-    2100008: color
-    2300000: Cube.003
-    2300002: Cube.004
-    2300004: Sphere
-    2300006: Torus
-    2300008: Torus.001
-    3300000: Cube.003
-    3300002: Cube.004
-    3300004: Sphere
-    3300006: Torus
-    3300008: Torus.001
-    4300000: Cube.004
-    4300002: Cube.003
-    4300004: Sphere
-    4300006: Torus.001
-    4300008: Torus
-    4300010: Cube.001
+    2100004: dark
+    2100006: color
+    4300000: Cube.001
+    7400000: Armature|ArmatureAction
+    7400002: Armature|walk_blocking
     9500000: //RootNode
     13700000: Cube.001
   externalObjects: {}

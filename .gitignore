@@ -35,3 +35,5 @@ sysinfo.txt
 *.apk
 *.unitypackage
 *UWP/
+*TextMesh Pro
+*/Assets/TextMesh Pro.meta

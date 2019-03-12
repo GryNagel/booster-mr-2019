@@ -16,3 +16,5 @@ Note MRTK = Mixed Reality Toolkit
 ## Tasks
 - [Task 1 - Setting up a new Unity project](TASK1.md) :arrow_forward:
 - [Task 2 - Creating a simple application](TASK2.md)
+- [Task 3 - Deploying to the HoloLens emulator](TASK3.md)
+- [Task 4 - Play with the toolkit](TASK4.md)
