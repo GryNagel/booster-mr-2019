@@ -25,4 +25,4 @@ If all goes well your application should be deployed to the HoloLens emulator.
 
 :information_source: The build and deploy process will be the same for deploying to the HoloLens.
 
-:arrow_backward: [Task 2 - Creating an application](TASK2.md) [Task 4 - Play with the toolkit](TASK4.md) :arrow_forward:
+:arrow_backward: [Task 2 - Creating an application](TASK2.md) | [Task 4 - Play with the toolkit](TASK4.md) :arrow_forward:
