@@ -6,7 +6,7 @@ The goal of this workshop is to set up a new mixed reality project by using the 
 
 Note MRTK = Mixed Reality Toolkit
 
-## Required resources:
+## Software requirements
 - Windows 10 (developer mode [enabled](https://www.ghacks.net/2015/06/13/how-to-enable-developer-mode-in-windows-10-to-sideload-apps/))
 - [Unity](https://unity3d.com/get-unity/download/archive) (Version 2018.3.8 recommended)
 - [Visual studio 2017](https://developer.microsoft.com/en-us/windows/downloads) and Windows 10 SDK

@@ -1,4 +1,4 @@
-# Deploying to the HoloLens emulator
+# Task 3 - Deploying to the HoloLens emulator
 
 Hopefully we have set everything up right so that we can deploy our application to the HoloLens emulator. 
 

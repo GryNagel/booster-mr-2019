@@ -1,4 +1,4 @@
-# Creating an application
+# Task 2- Creating an application
 
 We start by adding a 3D model we can manipulate. In this case we will use Chester, the cute penguin, made by Claudelle Girard. You can download Chester :penguin: from the root folder of the repository. 
 

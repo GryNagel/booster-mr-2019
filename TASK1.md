@@ -1,8 +1,6 @@
-# Task 1
+# Task 1 - Creating a new project in Unity
 
-## Creating a new project in Unity
-
-:pencil2:  Open unity, enter a name and a location for your new project. Make sure 3D is selected as template and create the project.
+:pencil2:  Open unity, enter a name and a location for your new project. Make sure 3D is selected as template and click **Create project**.
 
 ![Unity setup](Screenshots/unity_setup.png)
 
@@ -16,13 +14,15 @@ Make sure all assets are checked and click **Import**.
 
 Click **Apply** when you are prompted. 
 
-Go to **File -> Build settings**, double click on Universal Windows Platform and click on Switch platform. 
+When the assets are done loading go to **File -> Build settings**, double click on Universal Windows Platform and click on Switch platform. 
 
 The Mixed Reality Toolkit assets will give you a new option in the toolbar. Go to **Mixed Reality Toolkit -> Configure**. 
 
 New entities will appear in your Hierarchy view: 
 
 ![Hierarchy](Screenshots/hierarchy1.jpg)
+
+:information_source: The **Directional Light** is not needed for the HoloLens as it does not use lights. But you can keep it there if you want to. The **MixedRealityToolkit** is the configurations. The **MixedRealityPlayspace** contains the camera configurations, event system and Gaze provider.
 
 Save the new Scene by going to File -> Save scene as. Give it a name and save it in the scenes folder. 
 
