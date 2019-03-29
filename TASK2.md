@@ -16,8 +16,8 @@ To interact with Chester we need to add a collider to him. We do that by clickin
 When you click on *Edit collider* a green square will appear in the Scene view. From here you can use the small squares to drag the collider and make it large enough (Chester should be inside it).     
 ![Chester collider](Screenshots/chester_collider.jpg)
 
-To make the job easier, change the camera angle to see Chester from the front, the side and under or top
-![Camera angle](Screenshots/camera_angle.jpg).
+To make the job easier, change the camera angle to see Chester from the front, the side and under or top.  
+![Camera angle](Screenshots/camera_angle.jpg)
 
 Next let's use the *ManipulationHandler.cs*-script.
 
