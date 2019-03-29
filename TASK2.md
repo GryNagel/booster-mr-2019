@@ -8,12 +8,12 @@ He is also a bit large, so I suggest scaling him down to 0,25 in all axis.
 
 :information_source: If you are new to Unity: a component inherit the properties of it's parent. That means that if the *SceneContent* component has a position, Chester's default position will be inherited from the parent. 
 
-To interact with Chester we need to add a collider to him. We do that by clicking on him in either the hierarchy or the scene panel and clicking *Add new component* in the inspector. Choose physic, and select *Box collider*. The box collider will be a lot smaller than Chester, so we need to adjust it. To do so click on *Edit collider* in the inspector:
+To interact with Chester we need to add a collider to him. We do that by clicking on him in either the hierarchy or the scene panel and clicking *Add new component* in the inspector. Choose physic, and select *Box collider*. The box collider will be a lot smaller than Chester, so we need to adjust it. To do so click on *Edit collider* in the inspector:  
 ![Edit collider](Screenshots/edit_collider.jpg).
 
 :information_source: If the inspector view is blank, click on Chester in the Hierarchy view. 
 
-When you click on *Edit collider* a green square will appear in the Scene view. From here you can use the small squares to drag the collider and make it large enough (Chester should be inside it)
+When you click on *Edit collider* a green square will appear in the Scene view. From here you can use the small squares to drag the collider and make it large enough (Chester should be inside it)  
 ![Chester collider](Screenshots/chester_collider.jpg).
 
 To make the job easier, change the camera angle to see Chester from the front, the side and under or top
