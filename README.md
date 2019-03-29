@@ -8,7 +8,7 @@ Note MRTK = Mixed Reality Toolkit
 
 ## Software requirements
 - Windows 10 (developer mode [enabled](https://www.ghacks.net/2015/06/13/how-to-enable-developer-mode-in-windows-10-to-sideload-apps/))
-- [Visual studio 2017](https://developer.microsoft.com/en-us/windows/downloads) with the Windows 10 SDK (remember to check it in the Visual Studio Installer when installing)
+- [Visual studio 2017](https://developer.microsoft.com/en-us/windows/downloads) with the Windows 10 SDK, C++ Build tools (remember to check it in the Visual Studio Installer when installing)
 - [Unity](https://unity3d.com/get-unity/download/archive) (Version 2018.3.8 recommended)
 - [HoloLens emulator](https://go.microsoft.com/fwlink/?linkid=852626)
 - A copy of the [Mixed Reality Toolkit v2.0.0 Beta 2](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases)
